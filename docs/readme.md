@@ -6,6 +6,17 @@ Currently supports 35+ languages and also includes country flags in different si
 
 ## Usage (Countries)
 
+Get a single country by its 3-letter code:
+
+```php
+// using tracy debugger's bd()
+bd(rockcountries()->countries()->get('alpha2=aut'));
+```
+
+<img src=https://i.imgur.com/zn42yPG.png class=blur height=120>
+
+Or get a country and translate its name to german:
+
 ```php
 // load RockCountries
 echo rockcountries()
@@ -17,8 +28,9 @@ echo rockcountries()
   // NOTE: use lowercase!
   ->get('alpha2=at')
   // output the name
-  // will output "Österreich"
   ->name;
+
+// will output "Österreich"
 ```
 
 ## Background
