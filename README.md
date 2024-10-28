@@ -1,2 +1,5 @@
 # RockCountries
-ProcessWire module to easily work with Countries and Country Codes
+
+Uses https://github.com/stefangabos/world_countries for the country data.
+
+Docs: https://www.baumrock.com/RockCountries
