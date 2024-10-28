@@ -1,0 +1,194 @@
+id,alpha2,alpha3,name
+4,af,afg,Afganistan
+8,al,alb,Albaania
+12,dz,dza,Alžeeria
+840,us,usa,"Ameerika Ühendriigid"
+20,ad,and,Andorra
+24,ao,ago,Angola
+28,ag,atg,"Antigua ja Barbuda"
+784,ae,are,"Araabia Ühendemiraadid"
+32,ar,arg,Argentina
+51,am,arm,Armeenia
+36,au,aus,Austraalia
+40,at,aut,Austria
+31,az,aze,Aserbaidžaan
+44,bs,bhs,Bahama
+48,bh,bhr,Bahrein
+50,bd,bgd,Bangladesh
+52,bb,brb,Barbados
+585,pw,plw,Belau
+56,be,bel,Belgia
+84,bz,blz,Belize
+204,bj,ben,Benin
+64,bt,btn,Bhutan
+104,mm,mmr,Birma
+68,bo,bol,Boliivia
+70,ba,bih,"Bosnia ja Hertsegoviina"
+72,bw,bwa,Botswana
+76,br,bra,Brasiilia
+96,bn,brn,Brunei
+100,bg,bgr,Bulgaaria
+854,bf,bfa,"Burkina Faso"
+108,bi,bdi,Burundi
+170,co,col,Colombia
+188,cr,cri,"Costa Rica"
+262,dj,dji,Djibouti
+212,dm,dma,Dominica
+214,do,dom,"Dominikaani Vabariik"
+218,ec,ecu,Ecuador
+233,ee,est,Eesti
+818,eg,egy,Egiptus
+226,gq,gnq,Ekvatoriaal-Guinea
+222,sv,slv,"El Salvador"
+384,ci,civ,Elevandiluurannik
+232,er,eri,Eritrea
+231,et,eth,Etioopia
+242,fj,fji,Fidži
+266,ga,gab,Gabon
+270,gm,gmb,Gambia
+288,gh,gha,Ghana
+308,gd,grd,Grenada
+268,ge,geo,Gruusia
+320,gt,gtm,Guatemala
+324,gn,gin,Guinea
+624,gw,gnb,Guinea-Bissau
+328,gy,guy,Guyana
+608,ph,phl,Filipiinid
+332,ht,hti,Haiti
+156,cn,chn,Hiina
+724,es,esp,Hispaania
+528,nl,nld,Holland
+340,hn,hnd,Honduras
+191,hr,hrv,Horvaatia
+372,ie,irl,Iirimaa
+376,il,isr,Iisrael
+626,tl,tls,Ida-Timor
+356,in,ind,India
+360,id,idn,Indoneesia
+352,is,isl,Island
+368,iq,irq,Iraak
+364,ir,irn,Iraan
+380,it,ita,Itaalia
+392,jp,jpn,Jaapan
+388,jm,jam,Jamaica
+887,ye,yem,Jeemen
+400,jo,jor,Jordaania
+116,kh,khm,Kambodža
+120,cm,cmr,Kamerun
+124,ca,can,Kanada
+398,kz,kaz,Kasahstan
+634,qa,qat,Katar
+404,ke,ken,Keenia
+140,cf,caf,"Kesk-Aafrika Vabariik"
+296,ki,kir,Kiribati
+174,km,com,Komoorid
+180,cd,cod,"Kongo Demokraatlik Vabariik"
+178,cg,cog,"Kongo Vabariik"
+300,gr,grc,Kreeka
+192,cu,cub,Kuuba
+414,kw,kwt,Kuveit
+196,cy,cyp,Küpros
+417,kg,kgz,Kõrgõzstan
+418,la,lao,Laos
+440,lt,ltu,Leedu
+426,ls,lso,Lesotho
+422,lb,lbn,Liibanon
+430,lr,lbr,Libeeria
+438,li,lie,Liechtenstein
+434,ly,lby,Liibüa
+442,lu,lux,Luksemburg
+710,za,zaf,"Lõuna-Aafrika Vabariik"
+410,kr,kor,Lõuna-Korea
+728,ss,ssd,Lõuna-Sudaan
+428,lv,lva,Läti
+450,mg,mdg,Madagaskar
+458,my,mys,Malaisia
+454,mw,mwi,Malawi
+462,mv,mdv,Maldiivid
+466,ml,mli,Mali
+470,mt,mlt,Malta
+504,ma,mar,Maroko
+584,mh,mhl,"Marshalli Saared"
+478,mr,mrt,Mauritaania
+480,mu,mus,Mauritius
+484,mx,mex,Mehhiko
+583,fm,fsm,"Mikroneesia Liiduriigid"
+498,md,mda,Moldova
+492,mc,mco,Monaco
+496,mn,mng,Mongoolia
+499,me,mne,Montenegro
+508,mz,moz,Mosambiik
+516,na,nam,Namiibia
+520,nr,nru,Nauru
+524,np,npl,Nepal
+558,ni,nic,Nicaragua
+566,ng,nga,Nigeeria
+562,ne,ner,Niger
+578,no,nor,Norra
+512,om,omn,Omaan
+598,pg,png,"Paapua Uus-Guinea"
+586,pk,pak,Pakistan
+591,pa,pan,Panama
+600,py,pry,Paraguay
+604,pe,per,Peruu
+616,pl,pol,Poola
+620,pt,prt,Portugal
+250,fr,fra,Prantsusmaa
+408,kp,prk,Põhja-Korea
+807,mk,mkd,Põhja-Makedoonia
+132,cv,cpv,Roheneemesaared
+752,se,swe,Rootsi
+642,ro,rou,Rumeenia
+646,rw,rwa,Rwanda
+90,sb,slb,"Saalomoni Saared"
+659,kn,kna,"Saint Kitts ja Nevis"
+662,lc,lca,"Saint Lucia"
+670,vc,vct,"Saint Vincent ja Grenadiinid"
+276,de,deu,Saksamaa
+894,zm,zmb,Sambia
+882,ws,wsm,Samoa
+674,sm,smr,"San Marino"
+678,st,stp,"São Tomé ja Príncipe"
+682,sa,sau,"Saudi Araabia"
+690,sc,syc,Seišellid
+686,sn,sen,Senegal
+688,rs,srb,Serbia
+694,sl,sle,"Sierra Leone"
+702,sg,sgp,Singapur
+703,sk,svk,Slovakkia
+705,si,svn,Sloveenia
+706,so,som,Somaalia
+246,fi,fin,Soome
+144,lk,lka,"Sri Lanka"
+729,sd,sdn,Sudaan
+740,sr,sur,Suriname
+826,gb,gbr,Suurbritannia
+748,sz,swz,Svaasimaa
+760,sy,syr,Süüria
+756,ch,che,Šveits
+716,zw,zwe,Zimbabwe
+208,dk,dnk,Taani
+762,tj,tjk,Tadžikistan
+764,th,tha,Tai
+834,tz,tza,Tansaania
+768,tg,tgo,Togo
+776,to,ton,Tonga
+780,tt,tto,"Trinidad ja Tobago"
+148,td,tcd,Tšaad
+203,cz,cze,Tšehhi
+152,cl,chl,Tšiili
+788,tn,tun,Tuneesia
+792,tr,tur,Türgi
+795,tm,tkm,Türkmenistan
+798,tv,tuv,Tuvalu
+800,ug,uga,Uganda
+804,ua,ukr,Ukraina
+348,hu,hun,Ungari
+858,uy,ury,Uruguay
+860,uz,uzb,Usbekistan
+554,nz,nzl,Uus-Meremaa
+112,by,blr,Valgevene
+548,vu,vut,Vanuatu
+643,ru,rus,Venemaa
+862,ve,ven,Venezuela
+704,vn,vnm,Vietnam

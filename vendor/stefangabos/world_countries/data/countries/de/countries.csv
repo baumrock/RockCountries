@@ -1,0 +1,194 @@
+id,alpha2,alpha3,name
+4,af,afg,Afghanistan
+818,eg,egy,Ägypten
+8,al,alb,Albanien
+12,dz,dza,Algerien
+20,ad,and,Andorra
+24,ao,ago,Angola
+28,ag,atg,"Antigua und Barbuda"
+226,gq,gnq,Äquatorialguinea
+32,ar,arg,Argentinien
+51,am,arm,Armenien
+31,az,aze,Aserbaidschan
+231,et,eth,Äthiopien
+36,au,aus,Australien
+44,bs,bhs,Bahamas
+48,bh,bhr,Bahrain
+50,bd,bgd,Bangladesch
+52,bb,brb,Barbados
+112,by,blr,Belarus
+56,be,bel,Belgien
+84,bz,blz,Belize
+204,bj,ben,Benin
+64,bt,btn,Bhutan
+68,bo,bol,Bolivien
+70,ba,bih,"Bosnien und Herzegowina"
+72,bw,bwa,Botswana
+76,br,bra,Brasilien
+96,bn,brn,Brunei
+100,bg,bgr,Bulgarien
+854,bf,bfa,"Burkina Faso"
+108,bi,bdi,Burundi
+152,cl,chl,Chile
+156,cn,chn,"China, Volksrepublik"
+188,cr,cri,"Costa Rica"
+208,dk,dnk,Dänemark
+276,de,deu,Deutschland
+212,dm,dma,Dominica
+214,do,dom,"Dominikanische Republik"
+262,dj,dji,Dschibuti
+218,ec,ecu,Ecuador
+384,ci,civ,Elfenbeinküste
+222,sv,slv,"El Salvador"
+232,er,eri,Eritrea
+233,ee,est,Estland
+748,sz,swz,Eswatini
+242,fj,fji,Fidschi
+246,fi,fin,Finnland
+250,fr,fra,Frankreich
+266,ga,gab,Gabun
+270,gm,gmb,Gambia
+268,ge,geo,Georgien
+288,gh,gha,Ghana
+308,gd,grd,Grenada
+300,gr,grc,Griechenland
+320,gt,gtm,Guatemala
+324,gn,gin,Guinea
+624,gw,gnb,Guinea-Bissau
+328,gy,guy,Guyana
+332,ht,hti,Haiti
+340,hn,hnd,Honduras
+356,in,ind,Indien
+360,id,idn,Indonesien
+368,iq,irq,Irak
+364,ir,irn,Iran
+372,ie,irl,Irland
+352,is,isl,Island
+376,il,isr,Israel
+380,it,ita,Italien
+388,jm,jam,Jamaika
+392,jp,jpn,Japan
+887,ye,yem,Jemen
+400,jo,jor,Jordanien
+116,kh,khm,Kambodscha
+120,cm,cmr,Kamerun
+124,ca,can,Kanada
+132,cv,cpv,"Kap Verde"
+398,kz,kaz,Kasachstan
+634,qa,qat,Katar
+404,ke,ken,Kenia
+417,kg,kgz,Kirgisistan
+296,ki,kir,Kiribati
+170,co,col,Kolumbien
+174,km,com,Komoren
+180,cd,cod,"Kongo, Demokratische Republik"
+178,cg,cog,"Kongo, Republik"
+408,kp,prk,"Korea, Nord (Nordkorea)"
+410,kr,kor,"Korea, Süd (Südkorea)"
+191,hr,hrv,Kroatien
+192,cu,cub,Kuba
+414,kw,kwt,Kuwait
+418,la,lao,Laos
+426,ls,lso,Lesotho
+428,lv,lva,Lettland
+422,lb,lbn,Libanon
+430,lr,lbr,Liberia
+434,ly,lby,Libyen
+438,li,lie,Liechtenstein
+440,lt,ltu,Litauen
+442,lu,lux,Luxemburg
+450,mg,mdg,Madagaskar
+454,mw,mwi,Malawi
+458,my,mys,Malaysia
+462,mv,mdv,Malediven
+466,ml,mli,Mali
+470,mt,mlt,Malta
+504,ma,mar,Marokko
+584,mh,mhl,Marshallinseln
+478,mr,mrt,Mauretanien
+480,mu,mus,Mauritius
+484,mx,mex,Mexiko
+583,fm,fsm,Mikronesien
+498,md,mda,Moldau
+492,mc,mco,Monaco
+496,mn,mng,Mongolei
+499,me,mne,Montenegro
+508,mz,moz,Mosambik
+104,mm,mmr,Myanmar
+516,na,nam,Namibia
+520,nr,nru,Nauru
+524,np,npl,Nepal
+554,nz,nzl,Neuseeland
+558,ni,nic,Nicaragua
+528,nl,nld,Niederlande
+562,ne,ner,Niger
+566,ng,nga,Nigeria
+807,mk,mkd,Nordmazedonien
+578,no,nor,Norwegen
+512,om,omn,Oman
+40,at,aut,Österreich
+626,tl,tls,Osttimor
+586,pk,pak,Pakistan
+585,pw,plw,Palau
+591,pa,pan,Panama
+598,pg,png,Papua-Neuguinea
+600,py,pry,Paraguay
+604,pe,per,Peru
+608,ph,phl,Philippinen
+616,pl,pol,Polen
+620,pt,prt,Portugal
+646,rw,rwa,Ruanda
+642,ro,rou,Rumänien
+643,ru,rus,Russland
+90,sb,slb,Salomonen
+894,zm,zmb,Sambia
+882,ws,wsm,Samoa
+674,sm,smr,"San Marino"
+678,st,stp,"São Tomé und Príncipe"
+682,sa,sau,Saudi-Arabien
+752,se,swe,Schweden
+756,ch,che,Schweiz
+686,sn,sen,Senegal
+688,rs,srb,Serbien
+690,sc,syc,Seychellen
+694,sl,sle,"Sierra Leone"
+716,zw,zwe,Simbabwe
+702,sg,sgp,Singapur
+703,sk,svk,Slowakei
+705,si,svn,Slowenien
+706,so,som,Somalia
+724,es,esp,Spanien
+144,lk,lka,"Sri Lanka"
+659,kn,kna,"St. Kitts und Nevis"
+662,lc,lca,"St. Lucia"
+670,vc,vct,"St. Vincent und die Grenadinen"
+710,za,zaf,Südafrika
+729,sd,sdn,Sudan
+728,ss,ssd,Südsudan
+740,sr,sur,Suriname
+760,sy,syr,Syrien
+762,tj,tjk,Tadschikistan
+834,tz,tza,Tansania
+764,th,tha,Thailand
+768,tg,tgo,Togo
+776,to,ton,Tonga
+780,tt,tto,"Trinidad und Tobago"
+148,td,tcd,Tschad
+203,cz,cze,Tschechien
+788,tn,tun,Tunesien
+792,tr,tur,Türkei
+795,tm,tkm,Turkmenistan
+798,tv,tuv,Tuvalu
+800,ug,uga,Uganda
+804,ua,ukr,Ukraine
+348,hu,hun,Ungarn
+858,uy,ury,Uruguay
+860,uz,uzb,Usbekistan
+548,vu,vut,Vanuatu
+862,ve,ven,Venezuela
+784,ae,are,"Vereinigte Arabische Emirate"
+840,us,usa,"Vereinigte Staaten"
+826,gb,gbr,"Vereinigtes Königreich"
+704,vn,vnm,Vietnam
+140,cf,caf,"Zentralafrikanische Republik"
+196,cy,cyp,Zypern
