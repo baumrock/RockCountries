@@ -1,0 +1,194 @@
+id,alpha2,alpha3,name
+20,ad,and,Andorra
+784,ae,are,"Förenade arabemiraten"
+4,af,afg,Afghanistan
+28,ag,atg,"Antigua och Barbuda"
+8,al,alb,Albanien
+51,am,arm,Armenien
+24,ao,ago,Angola
+32,ar,arg,Argentina
+40,at,aut,Österrike
+36,au,aus,Australien
+31,az,aze,Azerbajdzjan
+70,ba,bih,"Bosnien och Hercegovina"
+52,bb,brb,Barbados
+50,bd,bgd,Bangladesh
+56,be,bel,Belgien
+854,bf,bfa,"Burkina Faso"
+100,bg,bgr,Bulgarien
+48,bh,bhr,Bahrain
+108,bi,bdi,Burundi
+204,bj,ben,Benin
+96,bn,brn,Brunei
+68,bo,bol,Bolivia
+76,br,bra,Brasilien
+44,bs,bhs,Bahamas
+64,bt,btn,Bhutan
+72,bw,bwa,Botswana
+112,by,blr,Belarus
+84,bz,blz,Belize
+124,ca,can,Kanada
+180,cd,cod,Kongo-Kinshasa
+140,cf,caf,"Centralafrikanska republiken"
+178,cg,cog,Kongo-Brazzaville
+756,ch,che,Schweiz
+384,ci,civ,Elfenbenskusten
+152,cl,chl,Chile
+120,cm,cmr,Kamerun
+156,cn,chn,Kina
+170,co,col,Colombia
+188,cr,cri,"Costa Rica"
+192,cu,cub,Kuba
+132,cv,cpv,"Kap Verde"
+196,cy,cyp,Cypern
+203,cz,cze,Tjeckien
+276,de,deu,Tyskland
+262,dj,dji,Djibouti
+208,dk,dnk,Danmark
+212,dm,dma,Dominica
+214,do,dom,"Dominikanska republiken"
+12,dz,dza,Algeriet
+218,ec,ecu,Ecuador
+233,ee,est,Estland
+818,eg,egy,Egypten
+232,er,eri,Eritrea
+724,es,esp,Spanien
+231,et,eth,Etiopien
+246,fi,fin,Finland
+242,fj,fji,Fiji
+583,fm,fsm,"Mikronesiska federationen"
+250,fr,fra,Frankrike
+266,ga,gab,Gabon
+826,gb,gbr,Storbritannien
+308,gd,grd,Grenada
+268,ge,geo,Georgien
+288,gh,gha,Ghana
+270,gm,gmb,Gambia
+324,gn,gin,Guinea
+226,gq,gnq,Ekvatorialguinea
+300,gr,grc,Grekland
+320,gt,gtm,Guatemala
+624,gw,gnb,Guinea-Bissau
+328,gy,guy,Guyana
+340,hn,hnd,Honduras
+191,hr,hrv,Kroatien
+332,ht,hti,Haiti
+348,hu,hun,Ungern
+360,id,idn,Indonesien
+372,ie,irl,Irland
+376,il,isr,Israel
+356,in,ind,Indien
+368,iq,irq,Irak
+364,ir,irn,Iran
+352,is,isl,Island
+380,it,ita,Italien
+388,jm,jam,Jamaica
+400,jo,jor,Jordanien
+392,jp,jpn,Japan
+404,ke,ken,Kenya
+417,kg,kgz,Kirgizistan
+116,kh,khm,Kambodja
+296,ki,kir,Kiribati
+174,km,com,Komorerna
+659,kn,kna,"Saint Kitts och Nevis"
+408,kp,prk,Nordkorea
+410,kr,kor,Sydkorea
+414,kw,kwt,Kuwait
+398,kz,kaz,Kazakstan
+418,la,lao,Laos
+422,lb,lbn,Libanon
+662,lc,lca,"Saint Lucia"
+438,li,lie,Liechtenstein
+144,lk,lka,"Sri Lanka"
+430,lr,lbr,Liberia
+426,ls,lso,Lesotho
+440,lt,ltu,Litauen
+442,lu,lux,Luxemburg
+428,lv,lva,Lettland
+434,ly,lby,Libyen
+504,ma,mar,Marocko
+492,mc,mco,Monaco
+498,md,mda,Moldavien
+499,me,mne,Montenegro
+450,mg,mdg,Madagaskar
+584,mh,mhl,Marshallöarna
+807,mk,mkd,Nordmakedonien
+466,ml,mli,Mali
+104,mm,mmr,Myanmar
+496,mn,mng,Mongoliet
+478,mr,mrt,Mauretanien
+470,mt,mlt,Malta
+480,mu,mus,Mauritius
+462,mv,mdv,Maldiverna
+454,mw,mwi,Malawi
+484,mx,mex,Mexiko
+458,my,mys,Malaysia
+508,mz,moz,Moçambique
+516,na,nam,Namibia
+562,ne,ner,Niger
+566,ng,nga,Nigeria
+558,ni,nic,Nicaragua
+528,nl,nld,Nederländerna
+578,no,nor,Norge
+524,np,npl,Nepal
+520,nr,nru,Nauru
+554,nz,nzl,"Nya Zeeland"
+512,om,omn,Oman
+591,pa,pan,Panama
+604,pe,per,Peru
+598,pg,png,"Papua Nya Guinea"
+608,ph,phl,Filippinerna
+586,pk,pak,Pakistan
+616,pl,pol,Polen
+620,pt,prt,Portugal
+585,pw,plw,Palau
+600,py,pry,Paraguay
+634,qa,qat,Qatar
+642,ro,rou,Rumänien
+688,rs,srb,Serbien
+643,ru,rus,Ryssland
+646,rw,rwa,Rwanda
+682,sa,sau,Saudiarabien
+90,sb,slb,Salomonöarna
+690,sc,syc,Seychellerna
+729,sd,sdn,Sudan
+752,se,swe,Sverige
+702,sg,sgp,Singapore
+705,si,svn,Slovenien
+703,sk,svk,Slovakien
+694,sl,sle,"Sierra Leone"
+674,sm,smr,"San Marino"
+686,sn,sen,Senegal
+706,so,som,Somalia
+740,sr,sur,Surinam
+728,ss,ssd,Sydsudan
+678,st,stp,"São Tomé och Príncipe"
+222,sv,slv,"El Salvador"
+760,sy,syr,Syrien
+748,sz,swz,Swaziland
+148,td,tcd,Tchad
+768,tg,tgo,Togo
+764,th,tha,Thailand
+762,tj,tjk,Tadzjikistan
+626,tl,tls,Östtimor
+795,tm,tkm,Turkmenistan
+788,tn,tun,Tunisien
+776,to,ton,Tonga
+792,tr,tur,Turkiet
+780,tt,tto,"Trinidad och Tobago"
+798,tv,tuv,Tuvalu
+834,tz,tza,Tanzania
+804,ua,ukr,Ukraina
+800,ug,uga,Uganda
+840,us,usa,USA
+858,uy,ury,Uruguay
+860,uz,uzb,Uzbekistan
+670,vc,vct,"Saint Vincent och Grenadinerna"
+862,ve,ven,Venezuela
+704,vn,vnm,Vietnam
+548,vu,vut,Vanuatu
+882,ws,wsm,Samoa
+887,ye,yem,Jemen
+710,za,zaf,Sydafrika
+894,zm,zmb,Zambia
+716,zw,zwe,Zimbabwe
